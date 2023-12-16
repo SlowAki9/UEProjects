@@ -1,0 +1,22 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/UEProjects/TPS/Project1/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/QF/BY1DA5CRGQSAMOTK8RA8KR.uasset",
+				"D:/UEProjects/TPS/Project1/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/MS/MRHJREJ6H7USQYWF1KO8F6.uasset",
+				"D:/UEProjects/TPS/Project1/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/YO/NG2R9BPZVA7ZDN0Z4VSTG6.uasset",
+				"D:/UEProjects/TPS/Project1/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/U7/H8YL2PPHZPBTI74SUD0RNL.uasset",
+				"D:/UEProjects/TPS/Project1/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/16/Q7Y1URWWFS0TXGWUTO3S61.uasset",
+				"D:/UEProjects/TPS/Project1/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/F/3Z/JX1K4Q4IGHWZOD5MWJA7S1.uasset",
+				"D:/UEProjects/TPS/Project1/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/04/IDCDWH9487EPMFQXV5418Z.uasset",
+				"D:/UEProjects/TPS/Project1/Content/LevelPrototyping/Textures/T_GridChecker_A_Mat.uasset",
+				"D:/UEProjects/TPS/Project1/Content/Characters/Mannequins/Textures/Quinn/T_Quinn_01ID_Mat.uasset",
+				"D:/UEProjects/TPS/Project1/Content/Characters/Mannequins/Textures/Quinn/T_Quinn_02ID_MSR_MSK_Mat.uasset",
+				"D:/UEProjects/TPS/Project1/Content/Characters/Mannequins/Textures/Shared/T_UE_Logo_M_Mat.uasset"
+			]
+		}
+	]
+}
